@@ -17,6 +17,7 @@ This code demonstrates basic principles of object oriented programming:
 - Binomialdistribution.py: defines the Binomial class
 - Gaussiandistribution.py: defines the Gaussian class
 - Generaldistribution.py: defines the Distribution class, which is inherited by the Binomial and Gaussian classes
+- setup.py and __init__.py files to turn the code into a package
 
 # Contact Me
 Feedback and suggestions are always welcome: andrewsungjaelee@gmail.com
